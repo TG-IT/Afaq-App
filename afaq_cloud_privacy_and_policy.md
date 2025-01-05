@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**[Your Web Application Name]** ("we," "our," or "us") values your privacy and is dedicated to safeguarding the personal data you provide while using our library management system (the "Service"). This Privacy Policy outlines how we collect, use, and protect your data and your rights regarding your information.
+**AFAQ App by TGIT** ("we," "our," or "us") values your privacy and is dedicated to safeguarding the personal data you provide while using our library management system (the "Service"). This Privacy Policy outlines how we collect, use, and protect your data and your rights regarding your information.
 
 ## 1. Information We Collect
 We collect the following types of information:
